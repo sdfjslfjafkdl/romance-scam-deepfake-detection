@@ -1,4 +1,3 @@
-# deepfake/preprocess.py
 from __future__ import annotations
 
 from dataclasses import dataclass
@@ -10,8 +9,8 @@ import numpy as np
 
 @dataclass
 class FaceCropConfig:
-    margin: float = 0.35  # bbox를 얼마나 확장할지 (0.35면 약 35% 확장)
-    min_size: int = 80    # 너무 작은 얼굴은 스킵 (데모 안정성)
+    margin: float = 0.35  
+    min_size: int = 80    
 
 
 def clamp(v: int, lo: int, hi: int) -> int:
