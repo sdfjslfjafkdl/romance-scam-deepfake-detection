@@ -55,3 +55,15 @@ outputs/
 # Jupyter
 # ===============================
 .ipynb_checkpoints/
+
+# ===============================
+# PaddleOCR / Paddle Cache
+# ===============================
+.paddleocr/
+**/.paddleocr/
+
+# ===============================
+# OCR / Scam Detector Artifacts
+# ===============================
+ocr_outputs/
+llm_raw_output*.txt
