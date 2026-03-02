@@ -35,23 +35,25 @@ GREEN-LIGHT는 영상 통화 환경에서 발생하는
 ---
 
 ## 📂 프로젝트 구조 (예시)
+```
 Romance-Scam-and-Deepfake-Detection/
-│
 ├── romance-detection/
-│ ├── dataset.py
-│ ├── detector.py
-│ ├── greenlight_ui.py
-│ ├── preprocess.py
-│ └── webcam.py
+│   ├── dataset.py
+│   └── detector.py
+│
+├── greenlight_ui.py
+├── preprocess.py
+├── webcam.py
 │
 ├── syncnet_python/
-│ ├── SyncNetInstance.py
-│ └── SyncNetModel.py
+│   ├── SyncNetInstance.py
+│   ├── SyncNetModel.py
+│   ├── syncnet_compare_dataset.py
+│   ├── syncnet_finetune.py
+│   └── webcam_sync_compare.py
 │
-├── syncnet_compare_dataset.py
-├── syncnet_finetune.py
-├── webcam_sync_compare.py
 └── README.md
+```
 
 ---
 
