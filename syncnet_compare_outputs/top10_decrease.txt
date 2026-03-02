@@ -1,0 +1,10 @@
+negative	diff=-7.1626	old=8.0644	new=0.9018	video=/Users/hansalang/Downloads/video-detect-main/romance_detection/syncnet_data/negative/20260221_133338/neg_04_+343ms/video.mp4
+negative	diff=-7.1626	old=8.0644	new=0.9018	video=/Users/hansalang/Downloads/video-detect-main/romance_detection/syncnet_data/negative/20260221_133338/neg_00_+396ms/video.mp4
+negative	diff=-7.1626	old=8.0644	new=0.9018	video=/Users/hansalang/Downloads/video-detect-main/romance_detection/syncnet_data/negative/20260221_133338/neg_02_+640ms/video.mp4
+negative	diff=-7.1626	old=8.0644	new=0.9018	video=/Users/hansalang/Downloads/video-detect-main/romance_detection/syncnet_data/negative/20260221_133338/neg_03_+495ms/video.mp4
+negative	diff=-7.1626	old=8.0644	new=0.9018	video=/Users/hansalang/Downloads/video-detect-main/romance_detection/syncnet_data/negative/20260221_133338/neg_01_+568ms/video.mp4
+negative	diff=-5.9356	old=7.6133	new=1.6777	video=/Users/hansalang/Downloads/video-detect-main/romance_detection/syncnet_data/negative/20260221_133433/neg_00_-718ms/video.mp4
+positive	diff=-5.9164	old=7.4039	new=1.4875	video=/Users/hansalang/Downloads/video-detect-main/romance_detection/syncnet_data/positive/20260221_133537/video.mp4
+negative	diff=-5.5287	old=6.8818	new=1.3531	video=/Users/hansalang/Downloads/video-detect-main/romance_detection/syncnet_data/negative/20260221_133314/neg_04_+511ms/video.mp4
+negative	diff=-5.5112	old=7.0285	new=1.5173	video=/Users/hansalang/Downloads/video-detect-main/romance_detection/syncnet_data/negative/20260221_133456/neg_00_-312ms/video.mp4
+negative	diff=-5.4156	old=6.9810	new=1.5654	video=/Users/hansalang/Downloads/video-detect-main/romance_detection/syncnet_data/negative/20260221_133153/neg_00_+522ms/video.mp4

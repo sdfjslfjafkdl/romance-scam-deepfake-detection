@@ -1,0 +1,8 @@
+==== Summary ====
+Data root: /Users/hansalang/Downloads/video-detect-main/romance_detection/syncnet_data
+Total: 60 | Positive: 10 | Negative: 50 | Unknown: 0
+Mean diff (all): -3.6141
+Mean diff (positive): -3.1162   (want +)
+Mean diff (negative): -3.7136   (want -)
+Mean conf old/new (all): 5.8860 -> 2.2720
+CSV saved: /Users/hansalang/Downloads/video-detect-main/syncnet_compare_outputs/syncnet_compare_results.csv

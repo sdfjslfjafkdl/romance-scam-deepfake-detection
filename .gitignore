@@ -1,69 +1,8 @@
-# ===============================
-# Python / Virtual Environment
-# ===============================
-.venv/
 venv/
-env/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# ===============================
-# OS / Editor
-# ===============================
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-
-# ===============================
-# Logs / Cache
-# ===============================
-*.log
-.cache/
-.huggingface/
-torch_cache/
-
-# ===============================
-# Model Weights / Large Files
-# ===============================
-weights/*
-*.pt
 *.pth
-*.onnx
-*.bin
-
-# ===============================
-# Media / Outputs
-# ===============================
-*.mp4
-*.mov
-*.avi
+*.pt
+*.ckpt
 *.mkv
-*.jpg
-*.png
-
-# ===============================
-# Temporary / Runtime
-# ===============================
-tmp/
-runs/
-outputs/
-
-# ===============================
-# Jupyter
-# ===============================
-.ipynb_checkpoints/
-
-# ===============================
-# PaddleOCR / Paddle Cache
-# ===============================
-.paddleocr/
-**/.paddleocr/
-
-# ===============================
-# OCR / Scam Detector Artifacts
-# ===============================
-ocr_outputs/
-llm_raw_output*.txt
+*.mp4
